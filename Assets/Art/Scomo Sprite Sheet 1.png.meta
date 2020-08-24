@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: a4e8518bd052de44f81d3295662dfccc
+timeCreated: 1589796613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Scomo Sprite Sheet 1_0
+    21300002: Scomo Sprite Sheet 1_1
+    21300004: Scomo Sprite Sheet 1_2
+    21300006: Scomo Sprite Sheet 1_3
+    21300008: Scomo Sprite Sheet 1_4
+    21300010: Scomo Sprite Sheet 1_5
+    21300012: Scomo Sprite Sheet 1_6
+    21300014: Scomo Sprite Sheet 1_7
+    21300016: Scomo Sprite Sheet 1_8
+    21300018: Scomo Sprite Sheet 1_9
+    21300020: Scomo Sprite Sheet 1_10
+    21300022: Scomo Sprite Sheet 1_11
+    21300024: Scomo Sprite Sheet 1_12
+    21300026: Scomo Sprite Sheet 1_13
+    21300028: Scomo Sprite Sheet 1_14
+    21300030: Scomo Sprite Sheet 1_15
+    21300032: Scomo Sprite Sheet 1_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 275
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 275
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 275
+        width: 47
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 275
+        width: 47
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 275
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 275
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 146
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 147
+        width: 46
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 147
+        width: 46
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 133
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 133
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 11
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 11
+        width: 47
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 11
+        width: 48
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 93
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scomo Sprite Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 95
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
